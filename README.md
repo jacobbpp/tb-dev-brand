@@ -11,6 +11,8 @@ The full visual guide (logo rules, color ratios, voice) lives in
 brand/
 ├─ tokens.css        ← colors, type, spacing, shape (light + dark)  ← the core
 ├─ components.css    ← optional ready-made .tb-* classes
+├─ splash.css        ← the animated logo sting (see SPLASH.md)
+├─ tb-splash.js       ← optional one-tag <tb-splash> version of the sting
 └─ assets/
    ├─ icon-512.png              app icon / PWA / repo avatar
    ├─ icon-512-maskable.png     PWA maskable (has safe-area padding)
